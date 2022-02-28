@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{682B9EF4-4C7C-06F7-4278-C89A0DD15167}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyGame1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"MacNoEditor"
+	]
+}
